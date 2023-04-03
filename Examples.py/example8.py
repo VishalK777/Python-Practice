@@ -7,5 +7,3 @@ b = 4
 
 # Use of ternary operator
 print(a if a >= b else b)
-
-# This code is contributed by AnkThon
